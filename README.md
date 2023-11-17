@@ -47,6 +47,12 @@ The CLI will generate the logo.svg file in the example directory.
 SVG Output
 The generated logo.svg file will contain the specified text and shape, with the chosen colors. You can open this file in a browser to view your custom logo.
 
+
+VIDEO OF WORKING APP
+https://github.com/Srgowen/MyLogoMaker/assets/119532973/6fc87809-f9d6-42e0-849a-5703ebc6b55c
+
+
+
 Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
