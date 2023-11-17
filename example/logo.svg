@@ -1,4 +1,4 @@
 <svg width="1000" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="120" cy="80" r="90" fill="red"/> 
-        <text x="150" y="125" font-size="50" text-anchor="middle" fill="purple">this is long!</text>
+        <polygon points="390, 75 600, 450 210, 450" fill="red"/> 
+        <text x="150" y="125" font-size="50" text-anchor="middle" fill="black">MyLogo!</text>
     </svg>
